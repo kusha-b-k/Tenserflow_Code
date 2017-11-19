@@ -2,7 +2,9 @@
 Tenserflow examples
 
 # Steps to Run the code 
-      1.install anaconda 64-bit, python 3.6,version from https://anaconda.org/ 
+      1.install anaconda 64-bit, python 3.6,version from 
+   [anaconda.org](https://anaconda.org/ )
+  
       2.open the  anaconda application
       3.goto Environments option 
       4.click create 
